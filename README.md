@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a student databa
 
 ## Entity Relationship Diagram
 
-![image](https://user-images.githubusercontent.com/120443233/233027205-beed5332-c9c7-4505-afb2-309193abd653.png)
+
 
 ## DESIGN STEPS
 
