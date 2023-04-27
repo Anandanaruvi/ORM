@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a student databa
 
 ## Entity Relationship Diagram
 
-
+![image](https://user-images.githubusercontent.com/120443233/234914551-41a60813-155b-4ff0-9088-5d9a170632b7.png)
 
 ## DESIGN STEPS
 
@@ -52,7 +52,11 @@ class EmployeeAdmin (admin. ModelAdmin):
 
 ## RESULT
 
-The code executed successfully
+The program for running a student database using ORM is successfully exceuted
+
+
+
+
 
 
 
